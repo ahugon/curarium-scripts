@@ -1,5 +1,5 @@
-via-extraction
-==============
+Curarium Scripts - download from VIA, convert to JSON, ingest to Curarium
+=========================================================================
 
 This hackish PHP script will download XML records in batches from Harvard's VIA.  It will then convert all the XML files to JSON.
 
